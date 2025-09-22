@@ -1,4 +1,5 @@
 // C program for Merge Sort
+이건 두번째 도큐먼트의 첫번째 레슨
 #include <stdio.h>
 #include <stdlib.h>
 
