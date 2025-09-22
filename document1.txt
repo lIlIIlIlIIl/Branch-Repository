@@ -1,5 +1,5 @@
-def partition(l, r, nums):
-    # Last element will be the pivot and the first element the pointer
+이건 첫번째 수정
+이건 첫번째 수정
     pivot, ptr = nums[r], l
     for i in range(l, r):
         if nums[i] <= pivot:
