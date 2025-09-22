@@ -1,5 +1,5 @@
-이제 두 번째 레슨
-수정도 두 번 하기
+이제 세 번째 레슨
+브랜치1에서 수정 하기
     pivot, ptr = nums[r], l
     for i in range(l, r):
         if nums[i] <= pivot:
